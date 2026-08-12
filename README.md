@@ -1,9 +1,6 @@
+<img width="1280" height="640" alt="repository-cover" src="https://github.com/user-attachments/assets/b49c9c39-678b-472f-9b9f-96989e3e2a48" />
 
 ## Bem-vindo(a) ao perfil do PlayerShelby 😁
-
-<p align="center">
-  <img src="https://imgur.com" alt="Banner Github" width="100%">
-</p>
 
  <div>
    <a href="https://github.com/Playershelby">
