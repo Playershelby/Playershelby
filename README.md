@@ -1,6 +1,8 @@
 
 ## Bem-vindo(a) ao perfil do PlayerShelby 😁
 
+![Banner da Imagem](https://photos.app.goo.gl/ufRoVebCehGV4udW7)
+<p aling="center"><img src="https://photos.app.goo.gl/ufRoVebCehGV4udW7" alt="banner"></p>
  <div>
    <a href="https://github.com/Playershelby">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Playershelby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
